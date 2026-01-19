@@ -1,5 +1,3 @@
-Here’s a complete **README.md** draft you can use for your GitHub repository. It’s structured, professional, and highlights all the features we’ve discussed:
-
 ---
 
 ```markdown
