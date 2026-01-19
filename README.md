@@ -1,5 +1,8 @@
 # SmartPWA Converter 🚀
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/47c9ea13-8575-49cd-b41b-7bb797048653" />
+
+
 SmartPWA Converter is a Python library and CLI tool that automatically transforms web projects into Progressive Web Apps (PWAs).  
 It intelligently detects your project type (React, Vue, static HTML, or Node), validates builds, applies AI-powered fallback scaffolding if the project fails, and packages the result for deployment.
 
