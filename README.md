@@ -1,6 +1,3 @@
----
-
-```markdown
 # SmartPWA Converter 🚀
 
 SmartPWA Converter is a Python library and CLI tool that automatically transforms web projects into Progressive Web Apps (PWAs).  
